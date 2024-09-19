@@ -1,7 +1,7 @@
 # desenvolvido por :sparkles:
-## Estudante Patricia :sparkling_heart: :sparkles:
+### Estudante Patricia :sparkling_heart: :sparkles:
 ### Primeira Página em HTML E CSS :kissing_heart:
-## Áreas afins:
+### Áreas afins:
 ### Educação física 
 ### Biologia 
 ### Artes
