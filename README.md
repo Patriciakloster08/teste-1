@@ -6,7 +6,7 @@
 ### Biologia 
 ### Artes
 ### Matemática
-### Hobbies:
+### Hobbies :stuck_out_tongue_closed_eyes:
 ### Jogar vôlei
 ### Animais 
 ### Pintar as unhas 
